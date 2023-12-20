@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/awfu/static/css/main.f855e6bc.css",
+    "main.js": "/awfu/static/js/main.d29a177d.js",
+    "static/js/787.6580cb80.chunk.js": "/awfu/static/js/787.6580cb80.chunk.js",
+    "static/media/logo.svg": "/awfu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/awfu/index.html",
+    "main.f855e6bc.css.map": "/awfu/static/css/main.f855e6bc.css.map",
+    "main.d29a177d.js.map": "/awfu/static/js/main.d29a177d.js.map",
+    "787.6580cb80.chunk.js.map": "/awfu/static/js/787.6580cb80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d29a177d.js"
+  ]
+}
